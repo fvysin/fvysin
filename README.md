@@ -1,4 +1,3 @@
-# fvysin
 <h1 align="center">Hi 👋, I'm Florencia!</h1>
 <h3 align="center">A passionate frontend developer from Argentina, living in Spain</h3>
 
