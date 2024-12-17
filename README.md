@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Florencia!</h1>
-![logo](https://github.com/user-attachments/assets/1715f059-6558-4683-86bd-8217503c1f31)
 <h3 align="center">A passionate frontend developer from Argentina, living in Spain</h3>
 
 - 🔭 I’m currently working on **a wedding interactive invitation**
